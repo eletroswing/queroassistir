@@ -1,0 +1,4 @@
+node_modules
+memoize.json
+cache.json
+.env
